@@ -1,0 +1,5 @@
+config/
+scripts/
+
+*.d.ts
+package.json
